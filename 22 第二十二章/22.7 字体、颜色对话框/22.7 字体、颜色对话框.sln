@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "22.7 字体、颜色对话框", "22.7 字体、颜色对话框\22.7 字体、颜色对话框.csproj", "{FD5F1FE3-340C-4998-96AE-A29FEB8BF16E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "字体对话框", "字体对话框\字体对话框.csproj", "{A0CBBFE0-EBE6-45E2-BBE2-E7302877C797}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FD5F1FE3-340C-4998-96AE-A29FEB8BF16E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD5F1FE3-340C-4998-96AE-A29FEB8BF16E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD5F1FE3-340C-4998-96AE-A29FEB8BF16E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD5F1FE3-340C-4998-96AE-A29FEB8BF16E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A0CBBFE0-EBE6-45E2-BBE2-E7302877C797}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0CBBFE0-EBE6-45E2-BBE2-E7302877C797}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0CBBFE0-EBE6-45E2-BBE2-E7302877C797}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0CBBFE0-EBE6-45E2-BBE2-E7302877C797}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

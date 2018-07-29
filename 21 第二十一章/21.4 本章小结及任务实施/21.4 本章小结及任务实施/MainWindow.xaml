@@ -1,0 +1,35 @@
+﻿<Window x:Class="_21._4_本章小结及任务实施.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:_21._4_本章小结及任务实施"
+        mc:Ignorable="d"
+        Title="关于" Height="350" Width="525" MinHeight="315" MinWidth="500" Icon="images/Hearts.png">
+    <Grid>
+        <Grid >
+            <Grid.RowDefinitions>
+                <RowDefinition Height="60"/>
+                <RowDefinition Height="30"/>
+                <RowDefinition />
+                <RowDefinition Height="80"/>
+            </Grid.RowDefinitions>
+            <Canvas Grid.Row="0" Background="#6ed000" >
+                <Image x:Name="image" Height="55" Canvas.Left="10" Canvas.Top="2" Stretch="UniformToFill" Source=".\images\Banner.png"/>
+                <Label x:Name="label" Content="雪上行者" Foreground="#eaff38" FontFamily="华文行楷" FontSize="18" Canvas.Right="10" Canvas.Top="25" />
+            </Canvas>
+            <Canvas Grid.Row="1" Background="#92be60">
+                <Label x:Name="label1" Content="CopyRight©2016 by www.51zxw.net" Canvas.Left="15" Canvas.Top="1" FontWeight="Bold" FontFamily="arial" Foreground="White" FontSize="14"/>
+            </Canvas>
+            <Canvas Grid.Row="3">
+                <Button x:Name="button" Content="确定" FontSize="14" Canvas.Right="30" Canvas.Bottom="30" Width="80" Height="30" Click="button_Click"/>
+            </Canvas>
+            <StackPanel Grid.Row="2">
+                <Label x:Name="label2" Content="About WPF is developed by snwoskywalker in 2016" FontSize="14" HorizontalAlignment="Left" VerticalAlignment="Top" Padding="20,20,0,0" Foreground="#336001"/>
+                <TextBlock x:Name="textBlock" TextWrapping="Wrap" Text="About WPF is developed with Visual C# for 51zxw.You can visit 51zxw at http://www.51zxw.net" HorizontalAlignment="Left" VerticalAlignment="Top" FontSize="14" Foreground="#435d26" LineHeight="30" Padding="20,20,20,0"/>
+            </StackPanel>
+        </Grid>
+        <TextBlock x:Name="textBlock1" HorizontalAlignment="Left" Margin="683,212,-174,-30" TextWrapping="Wrap" Text="TextBlock" VerticalAlignment="Top"/>
+
+    </Grid>
+</Window>

@@ -1,0 +1,5 @@
+D:\Users\Walker\Documents\Visual Studio 2015\Projects\51zxwProjects\20.3 文件操作之创建\20.3 文件操作之创建\bin\Debug\20.3 文件操作之创建.exe.config
+D:\Users\Walker\Documents\Visual Studio 2015\Projects\51zxwProjects\20.3 文件操作之创建\20.3 文件操作之创建\bin\Debug\20.3 文件操作之创建.exe
+D:\Users\Walker\Documents\Visual Studio 2015\Projects\51zxwProjects\20.3 文件操作之创建\20.3 文件操作之创建\bin\Debug\20.3 文件操作之创建.pdb
+D:\Users\Walker\Documents\Visual Studio 2015\Projects\51zxwProjects\20.3 文件操作之创建\20.3 文件操作之创建\obj\Debug\20.3 文件操作之创建.exe
+D:\Users\Walker\Documents\Visual Studio 2015\Projects\51zxwProjects\20.3 文件操作之创建\20.3 文件操作之创建\obj\Debug\20.3 文件操作之创建.pdb

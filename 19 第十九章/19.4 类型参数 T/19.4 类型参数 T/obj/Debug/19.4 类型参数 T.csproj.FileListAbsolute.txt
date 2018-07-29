@@ -1,0 +1,5 @@
+D:\Users\Walker\Documents\Visual Studio 2015\Projects\51zxwProjects\19.4 类型参数 T\19.4 类型参数 T\bin\Debug\19.4 类型参数 T.exe.config
+D:\Users\Walker\Documents\Visual Studio 2015\Projects\51zxwProjects\19.4 类型参数 T\19.4 类型参数 T\bin\Debug\19.4 类型参数 T.exe
+D:\Users\Walker\Documents\Visual Studio 2015\Projects\51zxwProjects\19.4 类型参数 T\19.4 类型参数 T\bin\Debug\19.4 类型参数 T.pdb
+D:\Users\Walker\Documents\Visual Studio 2015\Projects\51zxwProjects\19.4 类型参数 T\19.4 类型参数 T\obj\Debug\19.4 类型参数 T.exe
+D:\Users\Walker\Documents\Visual Studio 2015\Projects\51zxwProjects\19.4 类型参数 T\19.4 类型参数 T\obj\Debug\19.4 类型参数 T.pdb

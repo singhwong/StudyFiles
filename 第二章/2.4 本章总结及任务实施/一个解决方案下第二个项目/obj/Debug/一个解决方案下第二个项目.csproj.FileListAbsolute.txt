@@ -1,0 +1,5 @@
+d:\users\walker\documents\visual studio 2015\Projects\2.4 本章总结及任务实施\一个解决方案下第二个项目\bin\Debug\一个解决方案下第二个项目.exe.config
+d:\users\walker\documents\visual studio 2015\Projects\2.4 本章总结及任务实施\一个解决方案下第二个项目\bin\Debug\一个解决方案下第二个项目.exe
+d:\users\walker\documents\visual studio 2015\Projects\2.4 本章总结及任务实施\一个解决方案下第二个项目\bin\Debug\一个解决方案下第二个项目.pdb
+d:\users\walker\documents\visual studio 2015\Projects\2.4 本章总结及任务实施\一个解决方案下第二个项目\obj\Debug\一个解决方案下第二个项目.exe
+d:\users\walker\documents\visual studio 2015\Projects\2.4 本章总结及任务实施\一个解决方案下第二个项目\obj\Debug\一个解决方案下第二个项目.pdb

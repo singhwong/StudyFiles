@@ -1,0 +1,19 @@
+D:\Users\Walker\Documents\Visual Studio 2015\Projects\51zxwProjects\13.12 ErrorProvider控件\13.12 ErrorProvider控件\bin\Debug\13.12 ErrorProvider控件.exe.config
+D:\Users\Walker\Documents\Visual Studio 2015\Projects\51zxwProjects\13.12 ErrorProvider控件\13.12 ErrorProvider控件\bin\Debug\13.12 ErrorProvider控件.exe
+D:\Users\Walker\Documents\Visual Studio 2015\Projects\51zxwProjects\13.12 ErrorProvider控件\13.12 ErrorProvider控件\bin\Debug\13.12 ErrorProvider控件.pdb
+D:\Users\Walker\Documents\Visual Studio 2015\Projects\51zxwProjects\13.12 ErrorProvider控件\13.12 ErrorProvider控件\obj\Debug\13.12 ErrorProvider控件.csprojResolveAssemblyReference.cache
+D:\Users\Walker\Documents\Visual Studio 2015\Projects\51zxwProjects\13.12 ErrorProvider控件\13.12 ErrorProvider控件\obj\Debug\_13._12_ErrorProvider控件.Form1.resources
+D:\Users\Walker\Documents\Visual Studio 2015\Projects\51zxwProjects\13.12 ErrorProvider控件\13.12 ErrorProvider控件\obj\Debug\_13._12_ErrorProvider控件.Properties.Resources.resources
+D:\Users\Walker\Documents\Visual Studio 2015\Projects\51zxwProjects\13.12 ErrorProvider控件\13.12 ErrorProvider控件\obj\Debug\13.12 ErrorProvider控件.csproj.GenerateResource.Cache
+D:\Users\Walker\Documents\Visual Studio 2015\Projects\51zxwProjects\13.12 ErrorProvider控件\13.12 ErrorProvider控件\obj\Debug\13.12 ErrorProvider控件.exe
+D:\Users\Walker\Documents\Visual Studio 2015\Projects\51zxwProjects\13.12 ErrorProvider控件\13.12 ErrorProvider控件\obj\Debug\13.12 ErrorProvider控件.pdb
+C:\Users\singhwong\Desktop\C#素材\C#素材\13第十三章\13.12 ErrorProvider控件\13.12 ErrorProvider控件\bin\Debug\13.12 ErrorProvider控件.exe.config
+C:\Users\singhwong\Desktop\C#素材\C#素材\13第十三章\13.12 ErrorProvider控件\13.12 ErrorProvider控件\bin\Debug\13.12 ErrorProvider控件.exe
+C:\Users\singhwong\Desktop\C#素材\C#素材\13第十三章\13.12 ErrorProvider控件\13.12 ErrorProvider控件\bin\Debug\13.12 ErrorProvider控件.pdb
+C:\Users\singhwong\Desktop\C#素材\C#素材\13第十三章\13.12 ErrorProvider控件\13.12 ErrorProvider控件\obj\Debug\13.12 ErrorProvider控件.csprojAssemblyReference.cache
+C:\Users\singhwong\Desktop\C#素材\C#素材\13第十三章\13.12 ErrorProvider控件\13.12 ErrorProvider控件\obj\Debug\_13._12_ErrorProvider控件.Form1.resources
+C:\Users\singhwong\Desktop\C#素材\C#素材\13第十三章\13.12 ErrorProvider控件\13.12 ErrorProvider控件\obj\Debug\_13._12_ErrorProvider控件.Properties.Resources.resources
+C:\Users\singhwong\Desktop\C#素材\C#素材\13第十三章\13.12 ErrorProvider控件\13.12 ErrorProvider控件\obj\Debug\13.12 ErrorProvider控件.csproj.GenerateResource.cache
+C:\Users\singhwong\Desktop\C#素材\C#素材\13第十三章\13.12 ErrorProvider控件\13.12 ErrorProvider控件\obj\Debug\13.12 ErrorProvider控件.csproj.CoreCompileInputs.cache
+C:\Users\singhwong\Desktop\C#素材\C#素材\13第十三章\13.12 ErrorProvider控件\13.12 ErrorProvider控件\obj\Debug\13.12 ErrorProvider控件.exe
+C:\Users\singhwong\Desktop\C#素材\C#素材\13第十三章\13.12 ErrorProvider控件\13.12 ErrorProvider控件\obj\Debug\13.12 ErrorProvider控件.pdb

@@ -1,0 +1,9 @@
+D:\Users\Walker\Documents\Visual Studio 2015\Projects\51zxwProjects\22.5 绘制基本图形之矩形与多边形\22.5 绘制基本图形之矩形与多边形\bin\Debug\22.5 绘制基本图形之矩形与多边形.exe.config
+D:\Users\Walker\Documents\Visual Studio 2015\Projects\51zxwProjects\22.5 绘制基本图形之矩形与多边形\22.5 绘制基本图形之矩形与多边形\bin\Debug\22.5 绘制基本图形之矩形与多边形.exe
+D:\Users\Walker\Documents\Visual Studio 2015\Projects\51zxwProjects\22.5 绘制基本图形之矩形与多边形\22.5 绘制基本图形之矩形与多边形\bin\Debug\22.5 绘制基本图形之矩形与多边形.pdb
+D:\Users\Walker\Documents\Visual Studio 2015\Projects\51zxwProjects\22.5 绘制基本图形之矩形与多边形\22.5 绘制基本图形之矩形与多边形\obj\Debug\22.5 绘制基本图形之矩形与多边形.csprojResolveAssemblyReference.cache
+D:\Users\Walker\Documents\Visual Studio 2015\Projects\51zxwProjects\22.5 绘制基本图形之矩形与多边形\22.5 绘制基本图形之矩形与多边形\obj\Debug\_22._5_绘制基本图形之矩形与多边形.Form1.resources
+D:\Users\Walker\Documents\Visual Studio 2015\Projects\51zxwProjects\22.5 绘制基本图形之矩形与多边形\22.5 绘制基本图形之矩形与多边形\obj\Debug\_22._5_绘制基本图形之矩形与多边形.Properties.Resources.resources
+D:\Users\Walker\Documents\Visual Studio 2015\Projects\51zxwProjects\22.5 绘制基本图形之矩形与多边形\22.5 绘制基本图形之矩形与多边形\obj\Debug\22.5 绘制基本图形之矩形与多边形.csproj.GenerateResource.Cache
+D:\Users\Walker\Documents\Visual Studio 2015\Projects\51zxwProjects\22.5 绘制基本图形之矩形与多边形\22.5 绘制基本图形之矩形与多边形\obj\Debug\22.5 绘制基本图形之矩形与多边形.exe
+D:\Users\Walker\Documents\Visual Studio 2015\Projects\51zxwProjects\22.5 绘制基本图形之矩形与多边形\22.5 绘制基本图形之矩形与多边形\obj\Debug\22.5 绘制基本图形之矩形与多边形.pdb

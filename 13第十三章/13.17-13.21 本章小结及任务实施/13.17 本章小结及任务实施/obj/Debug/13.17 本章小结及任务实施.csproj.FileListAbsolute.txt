@@ -1,0 +1,19 @@
+D:\Users\Walker\Documents\Visual Studio 2015\Projects\51zxwProjects\13.17 本章小结及任务实施\13.17 本章小结及任务实施\bin\Debug\13.17 本章小结及任务实施.exe.config
+D:\Users\Walker\Documents\Visual Studio 2015\Projects\51zxwProjects\13.17 本章小结及任务实施\13.17 本章小结及任务实施\bin\Debug\13.17 本章小结及任务实施.exe
+D:\Users\Walker\Documents\Visual Studio 2015\Projects\51zxwProjects\13.17 本章小结及任务实施\13.17 本章小结及任务实施\bin\Debug\13.17 本章小结及任务实施.pdb
+D:\Users\Walker\Documents\Visual Studio 2015\Projects\51zxwProjects\13.17 本章小结及任务实施\13.17 本章小结及任务实施\obj\Debug\13.17 本章小结及任务实施.csprojResolveAssemblyReference.cache
+D:\Users\Walker\Documents\Visual Studio 2015\Projects\51zxwProjects\13.17 本章小结及任务实施\13.17 本章小结及任务实施\obj\Debug\_13._17_本章小结及任务实施.Form1.resources
+D:\Users\Walker\Documents\Visual Studio 2015\Projects\51zxwProjects\13.17 本章小结及任务实施\13.17 本章小结及任务实施\obj\Debug\_13._17_本章小结及任务实施.Properties.Resources.resources
+D:\Users\Walker\Documents\Visual Studio 2015\Projects\51zxwProjects\13.17 本章小结及任务实施\13.17 本章小结及任务实施\obj\Debug\13.17 本章小结及任务实施.csproj.GenerateResource.Cache
+D:\Users\Walker\Documents\Visual Studio 2015\Projects\51zxwProjects\13.17 本章小结及任务实施\13.17 本章小结及任务实施\obj\Debug\13.17 本章小结及任务实施.exe
+D:\Users\Walker\Documents\Visual Studio 2015\Projects\51zxwProjects\13.17 本章小结及任务实施\13.17 本章小结及任务实施\obj\Debug\13.17 本章小结及任务实施.pdb
+C:\Users\singhwong\Desktop\C#素材\C#素材\13第十三章\13.17-13.21 本章小结及任务实施\13.17 本章小结及任务实施\bin\Debug\13.17 本章小结及任务实施.exe.config
+C:\Users\singhwong\Desktop\C#素材\C#素材\13第十三章\13.17-13.21 本章小结及任务实施\13.17 本章小结及任务实施\bin\Debug\13.17 本章小结及任务实施.exe
+C:\Users\singhwong\Desktop\C#素材\C#素材\13第十三章\13.17-13.21 本章小结及任务实施\13.17 本章小结及任务实施\bin\Debug\13.17 本章小结及任务实施.pdb
+C:\Users\singhwong\Desktop\C#素材\C#素材\13第十三章\13.17-13.21 本章小结及任务实施\13.17 本章小结及任务实施\obj\Debug\13.17 本章小结及任务实施.csprojAssemblyReference.cache
+C:\Users\singhwong\Desktop\C#素材\C#素材\13第十三章\13.17-13.21 本章小结及任务实施\13.17 本章小结及任务实施\obj\Debug\_13._17_本章小结及任务实施.Form1.resources
+C:\Users\singhwong\Desktop\C#素材\C#素材\13第十三章\13.17-13.21 本章小结及任务实施\13.17 本章小结及任务实施\obj\Debug\_13._17_本章小结及任务实施.Properties.Resources.resources
+C:\Users\singhwong\Desktop\C#素材\C#素材\13第十三章\13.17-13.21 本章小结及任务实施\13.17 本章小结及任务实施\obj\Debug\13.17 本章小结及任务实施.csproj.GenerateResource.cache
+C:\Users\singhwong\Desktop\C#素材\C#素材\13第十三章\13.17-13.21 本章小结及任务实施\13.17 本章小结及任务实施\obj\Debug\13.17 本章小结及任务实施.csproj.CoreCompileInputs.cache
+C:\Users\singhwong\Desktop\C#素材\C#素材\13第十三章\13.17-13.21 本章小结及任务实施\13.17 本章小结及任务实施\obj\Debug\13.17 本章小结及任务实施.exe
+C:\Users\singhwong\Desktop\C#素材\C#素材\13第十三章\13.17-13.21 本章小结及任务实施\13.17 本章小结及任务实施\obj\Debug\13.17 本章小结及任务实施.pdb

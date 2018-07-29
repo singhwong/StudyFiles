@@ -1,0 +1,6 @@
+D:\Users\Walker\Documents\Visual Studio 2015\Projects\51zxwProjects\6.10 字符串的删除(移除)\6.10 字符串的删除(移除)\bin\Debug\6.10 字符串的删除(移除).exe.config
+D:\Users\Walker\Documents\Visual Studio 2015\Projects\51zxwProjects\6.10 字符串的删除(移除)\6.10 字符串的删除(移除)\bin\Debug\6.10 字符串的删除(移除).exe
+D:\Users\Walker\Documents\Visual Studio 2015\Projects\51zxwProjects\6.10 字符串的删除(移除)\6.10 字符串的删除(移除)\bin\Debug\6.10 字符串的删除(移除).pdb
+D:\Users\Walker\Documents\Visual Studio 2015\Projects\51zxwProjects\6.10 字符串的删除(移除)\6.10 字符串的删除(移除)\obj\Debug\6.10 字符串的删除(移除).csprojResolveAssemblyReference.cache
+D:\Users\Walker\Documents\Visual Studio 2015\Projects\51zxwProjects\6.10 字符串的删除(移除)\6.10 字符串的删除(移除)\obj\Debug\6.10 字符串的删除(移除).exe
+D:\Users\Walker\Documents\Visual Studio 2015\Projects\51zxwProjects\6.10 字符串的删除(移除)\6.10 字符串的删除(移除)\obj\Debug\6.10 字符串的删除(移除).pdb

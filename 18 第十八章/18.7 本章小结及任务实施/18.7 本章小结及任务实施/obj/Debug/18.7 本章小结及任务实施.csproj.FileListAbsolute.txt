@@ -1,0 +1,5 @@
+D:\Users\Walker\Documents\Visual Studio 2015\Projects\51zxwProjects\18.7 本章小结及任务实施\18.7 本章小结及任务实施\bin\Debug\18.7 本章小结及任务实施.exe.config
+D:\Users\Walker\Documents\Visual Studio 2015\Projects\51zxwProjects\18.7 本章小结及任务实施\18.7 本章小结及任务实施\bin\Debug\18.7 本章小结及任务实施.exe
+D:\Users\Walker\Documents\Visual Studio 2015\Projects\51zxwProjects\18.7 本章小结及任务实施\18.7 本章小结及任务实施\bin\Debug\18.7 本章小结及任务实施.pdb
+D:\Users\Walker\Documents\Visual Studio 2015\Projects\51zxwProjects\18.7 本章小结及任务实施\18.7 本章小结及任务实施\obj\Debug\18.7 本章小结及任务实施.exe
+D:\Users\Walker\Documents\Visual Studio 2015\Projects\51zxwProjects\18.7 本章小结及任务实施\18.7 本章小结及任务实施\obj\Debug\18.7 本章小结及任务实施.pdb

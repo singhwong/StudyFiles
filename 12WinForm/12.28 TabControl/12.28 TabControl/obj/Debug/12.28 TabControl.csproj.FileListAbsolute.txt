@@ -1,0 +1,9 @@
+D:\Users\Walker\Documents\Visual Studio 2015\Projects\51zxwProjects\12.28 TabControl\12.28 TabControl\bin\Debug\12.28 TabControl.exe.config
+D:\Users\Walker\Documents\Visual Studio 2015\Projects\51zxwProjects\12.28 TabControl\12.28 TabControl\bin\Debug\12.28 TabControl.exe
+D:\Users\Walker\Documents\Visual Studio 2015\Projects\51zxwProjects\12.28 TabControl\12.28 TabControl\bin\Debug\12.28 TabControl.pdb
+D:\Users\Walker\Documents\Visual Studio 2015\Projects\51zxwProjects\12.28 TabControl\12.28 TabControl\obj\Debug\12.28 TabControl.csprojResolveAssemblyReference.cache
+D:\Users\Walker\Documents\Visual Studio 2015\Projects\51zxwProjects\12.28 TabControl\12.28 TabControl\obj\Debug\_12._28_TabControl.Form1.resources
+D:\Users\Walker\Documents\Visual Studio 2015\Projects\51zxwProjects\12.28 TabControl\12.28 TabControl\obj\Debug\_12._28_TabControl.Properties.Resources.resources
+D:\Users\Walker\Documents\Visual Studio 2015\Projects\51zxwProjects\12.28 TabControl\12.28 TabControl\obj\Debug\12.28 TabControl.csproj.GenerateResource.Cache
+D:\Users\Walker\Documents\Visual Studio 2015\Projects\51zxwProjects\12.28 TabControl\12.28 TabControl\obj\Debug\12.28 TabControl.exe
+D:\Users\Walker\Documents\Visual Studio 2015\Projects\51zxwProjects\12.28 TabControl\12.28 TabControl\obj\Debug\12.28 TabControl.pdb

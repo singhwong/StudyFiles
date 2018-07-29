@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "19.12 调用泛型方法", "19.12 调用泛型方法\19.12 调用泛型方法.csproj", "{A05894C9-53F3-4802-B26B-B39BC4818EAC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A05894C9-53F3-4802-B26B-B39BC4818EAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A05894C9-53F3-4802-B26B-B39BC4818EAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A05894C9-53F3-4802-B26B-B39BC4818EAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A05894C9-53F3-4802-B26B-B39BC4818EAC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

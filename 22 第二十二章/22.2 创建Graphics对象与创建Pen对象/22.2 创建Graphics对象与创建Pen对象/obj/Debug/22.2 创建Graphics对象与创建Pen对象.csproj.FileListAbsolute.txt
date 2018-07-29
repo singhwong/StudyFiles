@@ -1,0 +1,1 @@
+D:\Users\Walker\Documents\Visual Studio 2015\Projects\51zxwProjects\22.2 创建Graphics对象与创建Pen对象\22.2 创建Graphics对象与创建Pen对象\bin\Debug\22.2 创建Graphics对象与创建Pen对象.exe.config

@@ -1,0 +1,10 @@
+D:\Users\Walker\Documents\Visual Studio 2015\Projects\51zxwProjects\29 Lottery\29 Lottery\bin\Debug\29 Lottery.exe.config
+D:\Users\Walker\Documents\Visual Studio 2015\Projects\51zxwProjects\29 Lottery\29 Lottery\obj\Debug\29 Lottery.csprojResolveAssemblyReference.cache
+D:\Users\Walker\Documents\Visual Studio 2015\Projects\51zxwProjects\29 Lottery\29 Lottery\obj\Debug\_29_Lottery.main.resources
+D:\Users\Walker\Documents\Visual Studio 2015\Projects\51zxwProjects\29 Lottery\29 Lottery\obj\Debug\_29_Lottery.Properties.Resources.resources
+D:\Users\Walker\Documents\Visual Studio 2015\Projects\51zxwProjects\29 Lottery\29 Lottery\obj\Debug\29 Lottery.csproj.GenerateResource.Cache
+D:\Users\Walker\Documents\Visual Studio 2015\Projects\51zxwProjects\29 Lottery\29 Lottery\bin\Debug\29 Lottery.exe
+D:\Users\Walker\Documents\Visual Studio 2015\Projects\51zxwProjects\29 Lottery\29 Lottery\bin\Debug\29 Lottery.pdb
+D:\Users\Walker\Documents\Visual Studio 2015\Projects\51zxwProjects\29 Lottery\29 Lottery\obj\Debug\29 Lottery.exe
+D:\Users\Walker\Documents\Visual Studio 2015\Projects\51zxwProjects\29 Lottery\29 Lottery\obj\Debug\29 Lottery.pdb
+D:\Users\Walker\Documents\Visual Studio 2015\Projects\51zxwProjects\29 Lottery\29 Lottery\obj\Debug\_29_Lottery.Form1.resources

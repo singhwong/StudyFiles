@@ -1,0 +1,9 @@
+D:\Users\Walker\Documents\Visual Studio 2015\Projects\51zxwProjects\15.2 DataGridView绑定数据源\15.2 DataGridView绑定数据源\bin\Debug\15.2 DataGridView绑定数据源.exe.config
+D:\Users\Walker\Documents\Visual Studio 2015\Projects\51zxwProjects\15.2 DataGridView绑定数据源\15.2 DataGridView绑定数据源\bin\Debug\15.2 DataGridView绑定数据源.exe
+D:\Users\Walker\Documents\Visual Studio 2015\Projects\51zxwProjects\15.2 DataGridView绑定数据源\15.2 DataGridView绑定数据源\bin\Debug\15.2 DataGridView绑定数据源.pdb
+D:\Users\Walker\Documents\Visual Studio 2015\Projects\51zxwProjects\15.2 DataGridView绑定数据源\15.2 DataGridView绑定数据源\obj\Debug\15.2 DataGridView绑定数据源.csprojResolveAssemblyReference.cache
+D:\Users\Walker\Documents\Visual Studio 2015\Projects\51zxwProjects\15.2 DataGridView绑定数据源\15.2 DataGridView绑定数据源\obj\Debug\_15._2_DataGridView绑定数据源.Form1.resources
+D:\Users\Walker\Documents\Visual Studio 2015\Projects\51zxwProjects\15.2 DataGridView绑定数据源\15.2 DataGridView绑定数据源\obj\Debug\_15._2_DataGridView绑定数据源.Properties.Resources.resources
+D:\Users\Walker\Documents\Visual Studio 2015\Projects\51zxwProjects\15.2 DataGridView绑定数据源\15.2 DataGridView绑定数据源\obj\Debug\15.2 DataGridView绑定数据源.csproj.GenerateResource.Cache
+D:\Users\Walker\Documents\Visual Studio 2015\Projects\51zxwProjects\15.2 DataGridView绑定数据源\15.2 DataGridView绑定数据源\obj\Debug\15.2 DataGridView绑定数据源.exe
+D:\Users\Walker\Documents\Visual Studio 2015\Projects\51zxwProjects\15.2 DataGridView绑定数据源\15.2 DataGridView绑定数据源\obj\Debug\15.2 DataGridView绑定数据源.pdb

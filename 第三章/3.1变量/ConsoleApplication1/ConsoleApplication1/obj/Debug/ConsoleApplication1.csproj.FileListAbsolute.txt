@@ -1,0 +1,6 @@
+D:\Users\Walker\Documents\Visual Studio 2015\Projects\51zxwProjects\3.1变量\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\Users\Walker\Documents\Visual Studio 2015\Projects\51zxwProjects\3.1变量\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\Users\Walker\Documents\Visual Studio 2015\Projects\51zxwProjects\3.1变量\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\Users\Walker\Documents\Visual Studio 2015\Projects\51zxwProjects\3.1变量\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+D:\Users\Walker\Documents\Visual Studio 2015\Projects\51zxwProjects\3.1变量\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\Users\Walker\Documents\Visual Studio 2015\Projects\51zxwProjects\3.1变量\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

@@ -1,0 +1,10 @@
+D:\Users\Walker\Documents\Visual Studio 2015\Projects\51zxwProjects\12.34 本章小结及任务实施\12.34 本章小结及任务实施\bin\Debug\12.34 本章小结及任务实施.exe.config
+D:\Users\Walker\Documents\Visual Studio 2015\Projects\51zxwProjects\12.34 本章小结及任务实施\12.34 本章小结及任务实施\bin\Debug\12.34 本章小结及任务实施.exe
+D:\Users\Walker\Documents\Visual Studio 2015\Projects\51zxwProjects\12.34 本章小结及任务实施\12.34 本章小结及任务实施\bin\Debug\12.34 本章小结及任务实施.pdb
+D:\Users\Walker\Documents\Visual Studio 2015\Projects\51zxwProjects\12.34 本章小结及任务实施\12.34 本章小结及任务实施\obj\Debug\12.34 本章小结及任务实施.csprojResolveAssemblyReference.cache
+D:\Users\Walker\Documents\Visual Studio 2015\Projects\51zxwProjects\12.34 本章小结及任务实施\12.34 本章小结及任务实施\obj\Debug\_12._34_本章小结及任务实施.Form1.resources
+D:\Users\Walker\Documents\Visual Studio 2015\Projects\51zxwProjects\12.34 本章小结及任务实施\12.34 本章小结及任务实施\obj\Debug\_12._34_本章小结及任务实施.Properties.Resources.resources
+D:\Users\Walker\Documents\Visual Studio 2015\Projects\51zxwProjects\12.34 本章小结及任务实施\12.34 本章小结及任务实施\obj\Debug\_12._34_本章小结及任务实施.RegForm.resources
+D:\Users\Walker\Documents\Visual Studio 2015\Projects\51zxwProjects\12.34 本章小结及任务实施\12.34 本章小结及任务实施\obj\Debug\12.34 本章小结及任务实施.csproj.GenerateResource.Cache
+D:\Users\Walker\Documents\Visual Studio 2015\Projects\51zxwProjects\12.34 本章小结及任务实施\12.34 本章小结及任务实施\obj\Debug\12.34 本章小结及任务实施.exe
+D:\Users\Walker\Documents\Visual Studio 2015\Projects\51zxwProjects\12.34 本章小结及任务实施\12.34 本章小结及任务实施\obj\Debug\12.34 本章小结及任务实施.pdb

@@ -1,0 +1,6 @@
+D:\Users\Walker\Documents\Visual Studio 2015\Projects\51zxwProjects\19.8 泛型继承之泛型类继承泛型类\19.8 泛型继承之泛型类继承泛型类\bin\Debug\19.8 泛型继承之泛型类继承泛型类.exe.config
+D:\Users\Walker\Documents\Visual Studio 2015\Projects\51zxwProjects\19.8 泛型继承之泛型类继承泛型类\19.8 泛型继承之泛型类继承泛型类\bin\Debug\19.8 泛型继承之泛型类继承泛型类.exe
+D:\Users\Walker\Documents\Visual Studio 2015\Projects\51zxwProjects\19.8 泛型继承之泛型类继承泛型类\19.8 泛型继承之泛型类继承泛型类\bin\Debug\19.8 泛型继承之泛型类继承泛型类.pdb
+D:\Users\Walker\Documents\Visual Studio 2015\Projects\51zxwProjects\19.8 泛型继承之泛型类继承泛型类\19.8 泛型继承之泛型类继承泛型类\obj\Debug\19.8 泛型继承之泛型类继承泛型类.csprojResolveAssemblyReference.cache
+D:\Users\Walker\Documents\Visual Studio 2015\Projects\51zxwProjects\19.8 泛型继承之泛型类继承泛型类\19.8 泛型继承之泛型类继承泛型类\obj\Debug\19.8 泛型继承之泛型类继承泛型类.exe
+D:\Users\Walker\Documents\Visual Studio 2015\Projects\51zxwProjects\19.8 泛型继承之泛型类继承泛型类\19.8 泛型继承之泛型类继承泛型类\obj\Debug\19.8 泛型继承之泛型类继承泛型类.pdb

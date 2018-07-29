@@ -1,0 +1,9 @@
+D:\Users\Walker\Documents\Visual Studio 2015\Projects\51zxwProjects\12.3 窗体的常用属性\12.3 窗体的常用属性\bin\Debug\12.3 窗体的常用属性.exe.config
+D:\Users\Walker\Documents\Visual Studio 2015\Projects\51zxwProjects\12.3 窗体的常用属性\12.3 窗体的常用属性\bin\Debug\12.3 窗体的常用属性.exe
+D:\Users\Walker\Documents\Visual Studio 2015\Projects\51zxwProjects\12.3 窗体的常用属性\12.3 窗体的常用属性\bin\Debug\12.3 窗体的常用属性.pdb
+D:\Users\Walker\Documents\Visual Studio 2015\Projects\51zxwProjects\12.3 窗体的常用属性\12.3 窗体的常用属性\obj\Debug\12.3 窗体的常用属性.csprojResolveAssemblyReference.cache
+D:\Users\Walker\Documents\Visual Studio 2015\Projects\51zxwProjects\12.3 窗体的常用属性\12.3 窗体的常用属性\obj\Debug\_12._3_窗体的常用属性.Properties.Resources.resources
+D:\Users\Walker\Documents\Visual Studio 2015\Projects\51zxwProjects\12.3 窗体的常用属性\12.3 窗体的常用属性\obj\Debug\12.3 窗体的常用属性.csproj.GenerateResource.Cache
+D:\Users\Walker\Documents\Visual Studio 2015\Projects\51zxwProjects\12.3 窗体的常用属性\12.3 窗体的常用属性\obj\Debug\12.3 窗体的常用属性.exe
+D:\Users\Walker\Documents\Visual Studio 2015\Projects\51zxwProjects\12.3 窗体的常用属性\12.3 窗体的常用属性\obj\Debug\12.3 窗体的常用属性.pdb
+D:\Users\Walker\Documents\Visual Studio 2015\Projects\51zxwProjects\12.3 窗体的常用属性\12.3 窗体的常用属性\obj\Debug\_12._3_窗体的常用属性.MainForm.resources

@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "18.2 实现迭代器最常用的方法", "18.2 实现迭代器最常用的方法\18.2 实现迭代器最常用的方法.csproj", "{01701DF1-C314-4012-8B36-CB2AC54F7FF1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{01701DF1-C314-4012-8B36-CB2AC54F7FF1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01701DF1-C314-4012-8B36-CB2AC54F7FF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01701DF1-C314-4012-8B36-CB2AC54F7FF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01701DF1-C314-4012-8B36-CB2AC54F7FF1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

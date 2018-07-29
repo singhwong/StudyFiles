@@ -1,0 +1,6 @@
+d:\users\walker\documents\visual studio 2015\Projects\3.2常量\3.2常量\bin\Debug\3.2常量.exe.config
+d:\users\walker\documents\visual studio 2015\Projects\3.2常量\3.2常量\bin\Debug\3.2常量.exe
+d:\users\walker\documents\visual studio 2015\Projects\3.2常量\3.2常量\bin\Debug\3.2常量.pdb
+d:\users\walker\documents\visual studio 2015\Projects\3.2常量\3.2常量\obj\Debug\3.2常量.csprojResolveAssemblyReference.cache
+d:\users\walker\documents\visual studio 2015\Projects\3.2常量\3.2常量\obj\Debug\3.2常量.exe
+d:\users\walker\documents\visual studio 2015\Projects\3.2常量\3.2常量\obj\Debug\3.2常量.pdb

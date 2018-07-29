@@ -1,0 +1,14 @@
+D:\Users\Walker\Documents\Visual Studio 2015\Projects\51zxwProjects\21.4 本章小结及任务实施\21.4 本章小结及任务实施\bin\Debug\21.4 本章小结及任务实施.exe.config
+D:\Users\Walker\Documents\Visual Studio 2015\Projects\51zxwProjects\21.4 本章小结及任务实施\21.4 本章小结及任务实施\bin\Debug\21.4 本章小结及任务实施.exe
+D:\Users\Walker\Documents\Visual Studio 2015\Projects\51zxwProjects\21.4 本章小结及任务实施\21.4 本章小结及任务实施\bin\Debug\21.4 本章小结及任务实施.pdb
+D:\Users\Walker\Documents\Visual Studio 2015\Projects\51zxwProjects\21.4 本章小结及任务实施\21.4 本章小结及任务实施\obj\Debug\21.4 本章小结及任务实施.csprojResolveAssemblyReference.cache
+D:\Users\Walker\Documents\Visual Studio 2015\Projects\51zxwProjects\21.4 本章小结及任务实施\21.4 本章小结及任务实施\obj\Debug\MainWindow.g.cs
+D:\Users\Walker\Documents\Visual Studio 2015\Projects\51zxwProjects\21.4 本章小结及任务实施\21.4 本章小结及任务实施\obj\Debug\App.g.cs
+D:\Users\Walker\Documents\Visual Studio 2015\Projects\51zxwProjects\21.4 本章小结及任务实施\21.4 本章小结及任务实施\obj\Debug\21.4 本章小结及任务实施_MarkupCompile.cache
+D:\Users\Walker\Documents\Visual Studio 2015\Projects\51zxwProjects\21.4 本章小结及任务实施\21.4 本章小结及任务实施\obj\Debug\21.4 本章小结及任务实施_MarkupCompile.lref
+D:\Users\Walker\Documents\Visual Studio 2015\Projects\51zxwProjects\21.4 本章小结及任务实施\21.4 本章小结及任务实施\obj\Debug\MainWindow.baml
+D:\Users\Walker\Documents\Visual Studio 2015\Projects\51zxwProjects\21.4 本章小结及任务实施\21.4 本章小结及任务实施\obj\Debug\21.4 本章小结及任务实施.g.resources
+D:\Users\Walker\Documents\Visual Studio 2015\Projects\51zxwProjects\21.4 本章小结及任务实施\21.4 本章小结及任务实施\obj\Debug\_21._4_本章小结及任务实施.Properties.Resources.resources
+D:\Users\Walker\Documents\Visual Studio 2015\Projects\51zxwProjects\21.4 本章小结及任务实施\21.4 本章小结及任务实施\obj\Debug\21.4 本章小结及任务实施.csproj.GenerateResource.Cache
+D:\Users\Walker\Documents\Visual Studio 2015\Projects\51zxwProjects\21.4 本章小结及任务实施\21.4 本章小结及任务实施\obj\Debug\21.4 本章小结及任务实施.exe
+D:\Users\Walker\Documents\Visual Studio 2015\Projects\51zxwProjects\21.4 本章小结及任务实施\21.4 本章小结及任务实施\obj\Debug\21.4 本章小结及任务实施.pdb

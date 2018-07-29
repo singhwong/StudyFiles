@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "22.2 创建Graphics对象", "22.2 创建Graphics对象与创建Pen对象\22.2 创建Graphics对象.csproj", "{DEEDEA6A-7330-4BB9-9FE1-A2AEF211547E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "22.2 创建Pen对象", "22.2 创建Pen对象\22.2 创建Pen对象.csproj", "{5953475A-3182-4A57-9792-561CD81497A6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DEEDEA6A-7330-4BB9-9FE1-A2AEF211547E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DEEDEA6A-7330-4BB9-9FE1-A2AEF211547E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DEEDEA6A-7330-4BB9-9FE1-A2AEF211547E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DEEDEA6A-7330-4BB9-9FE1-A2AEF211547E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5953475A-3182-4A57-9792-561CD81497A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5953475A-3182-4A57-9792-561CD81497A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5953475A-3182-4A57-9792-561CD81497A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5953475A-3182-4A57-9792-561CD81497A6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

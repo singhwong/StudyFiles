@@ -1,0 +1,6 @@
+D:\Users\Walker\Documents\Visual Studio 2015\Projects\51zxwProjects\17.4 Csharp中正则表达式的构建与匹配\17.4 Csharp中正则表达式的构建与匹配\bin\Debug\17.4 Csharp中正则表达式的构建与匹配.exe.config
+D:\Users\Walker\Documents\Visual Studio 2015\Projects\51zxwProjects\17.4 Csharp中正则表达式的构建与匹配\17.4 Csharp中正则表达式的构建与匹配\bin\Debug\17.4 Csharp中正则表达式的构建与匹配.exe
+D:\Users\Walker\Documents\Visual Studio 2015\Projects\51zxwProjects\17.4 Csharp中正则表达式的构建与匹配\17.4 Csharp中正则表达式的构建与匹配\bin\Debug\17.4 Csharp中正则表达式的构建与匹配.pdb
+D:\Users\Walker\Documents\Visual Studio 2015\Projects\51zxwProjects\17.4 Csharp中正则表达式的构建与匹配\17.4 Csharp中正则表达式的构建与匹配\obj\Debug\17.4 Csharp中正则表达式的构建与匹配.csprojResolveAssemblyReference.cache
+D:\Users\Walker\Documents\Visual Studio 2015\Projects\51zxwProjects\17.4 Csharp中正则表达式的构建与匹配\17.4 Csharp中正则表达式的构建与匹配\obj\Debug\17.4 Csharp中正则表达式的构建与匹配.exe
+D:\Users\Walker\Documents\Visual Studio 2015\Projects\51zxwProjects\17.4 Csharp中正则表达式的构建与匹配\17.4 Csharp中正则表达式的构建与匹配\obj\Debug\17.4 Csharp中正则表达式的构建与匹配.pdb

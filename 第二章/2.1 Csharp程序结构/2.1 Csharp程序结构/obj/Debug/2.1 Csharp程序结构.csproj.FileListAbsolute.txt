@@ -1,0 +1,6 @@
+d:\users\walker\documents\visual studio 2015\Projects\2.1 Csharp程序结构\2.1 Csharp程序结构\bin\Debug\2.1 Csharp程序结构.exe.config
+d:\users\walker\documents\visual studio 2015\Projects\2.1 Csharp程序结构\2.1 Csharp程序结构\bin\Debug\2.1 Csharp程序结构.exe
+d:\users\walker\documents\visual studio 2015\Projects\2.1 Csharp程序结构\2.1 Csharp程序结构\bin\Debug\2.1 Csharp程序结构.pdb
+d:\users\walker\documents\visual studio 2015\Projects\2.1 Csharp程序结构\2.1 Csharp程序结构\obj\Debug\2.1 Csharp程序结构.csprojResolveAssemblyReference.cache
+d:\users\walker\documents\visual studio 2015\Projects\2.1 Csharp程序结构\2.1 Csharp程序结构\obj\Debug\2.1 Csharp程序结构.exe
+d:\users\walker\documents\visual studio 2015\Projects\2.1 Csharp程序结构\2.1 Csharp程序结构\obj\Debug\2.1 Csharp程序结构.pdb

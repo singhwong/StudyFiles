@@ -1,0 +1,9 @@
+D:\Users\Walker\Documents\Visual Studio 2015\Projects\51zxwProjects\12.15 Timer控件\12.15 Timer控件\bin\Debug\12.15 Timer控件.exe.config
+D:\Users\Walker\Documents\Visual Studio 2015\Projects\51zxwProjects\12.15 Timer控件\12.15 Timer控件\bin\Debug\12.15 Timer控件.exe
+D:\Users\Walker\Documents\Visual Studio 2015\Projects\51zxwProjects\12.15 Timer控件\12.15 Timer控件\bin\Debug\12.15 Timer控件.pdb
+D:\Users\Walker\Documents\Visual Studio 2015\Projects\51zxwProjects\12.15 Timer控件\12.15 Timer控件\obj\Debug\12.15 Timer控件.csprojResolveAssemblyReference.cache
+D:\Users\Walker\Documents\Visual Studio 2015\Projects\51zxwProjects\12.15 Timer控件\12.15 Timer控件\obj\Debug\_12._15_Timer控件.Form1.resources
+D:\Users\Walker\Documents\Visual Studio 2015\Projects\51zxwProjects\12.15 Timer控件\12.15 Timer控件\obj\Debug\_12._15_Timer控件.Properties.Resources.resources
+D:\Users\Walker\Documents\Visual Studio 2015\Projects\51zxwProjects\12.15 Timer控件\12.15 Timer控件\obj\Debug\12.15 Timer控件.csproj.GenerateResource.Cache
+D:\Users\Walker\Documents\Visual Studio 2015\Projects\51zxwProjects\12.15 Timer控件\12.15 Timer控件\obj\Debug\12.15 Timer控件.exe
+D:\Users\Walker\Documents\Visual Studio 2015\Projects\51zxwProjects\12.15 Timer控件\12.15 Timer控件\obj\Debug\12.15 Timer控件.pdb

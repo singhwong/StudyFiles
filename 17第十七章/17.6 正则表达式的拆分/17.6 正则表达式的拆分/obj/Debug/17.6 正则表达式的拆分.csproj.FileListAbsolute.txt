@@ -1,0 +1,5 @@
+D:\Users\Walker\Documents\Visual Studio 2015\Projects\51zxwProjects\17.6 正则表达式的拆分\17.6 正则表达式的拆分\bin\Debug\17.6 正则表达式的拆分.exe.config
+D:\Users\Walker\Documents\Visual Studio 2015\Projects\51zxwProjects\17.6 正则表达式的拆分\17.6 正则表达式的拆分\bin\Debug\17.6 正则表达式的拆分.exe
+D:\Users\Walker\Documents\Visual Studio 2015\Projects\51zxwProjects\17.6 正则表达式的拆分\17.6 正则表达式的拆分\bin\Debug\17.6 正则表达式的拆分.pdb
+D:\Users\Walker\Documents\Visual Studio 2015\Projects\51zxwProjects\17.6 正则表达式的拆分\17.6 正则表达式的拆分\obj\Debug\17.6 正则表达式的拆分.exe
+D:\Users\Walker\Documents\Visual Studio 2015\Projects\51zxwProjects\17.6 正则表达式的拆分\17.6 正则表达式的拆分\obj\Debug\17.6 正则表达式的拆分.pdb

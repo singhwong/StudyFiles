@@ -1,0 +1,1 @@
+D:\Users\Walker\Documents\Visual Studio 2015\Projects\51zxwProjects\15.8 DataGridView编辑行显示不同颜色\15.8 DataGridView编辑行显示不同颜色\bin\Debug\15.8 DataGridView编辑行显示不同颜色.exe.config

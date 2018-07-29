@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12.1 创建WinForm程序", "12.1 创建WinForm程序\12.1 创建WinForm程序.csproj", "{005341AC-98AF-4073-B9F4-4EC762320C81}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "我要自学网控制台程序", "我要自学网控制台程序\我要自学网控制台程序.csproj", "{1B01EE2C-D144-478D-B843-5D4F24355C8F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "我要自学网WinForm程序", "我要自学网WinForm程序\我要自学网WinForm程序.csproj", "{00916EAB-41FE-45EE-AA2A-BCDAC55DB715}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{005341AC-98AF-4073-B9F4-4EC762320C81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{005341AC-98AF-4073-B9F4-4EC762320C81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{005341AC-98AF-4073-B9F4-4EC762320C81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{005341AC-98AF-4073-B9F4-4EC762320C81}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B01EE2C-D144-478D-B843-5D4F24355C8F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B01EE2C-D144-478D-B843-5D4F24355C8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B01EE2C-D144-478D-B843-5D4F24355C8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B01EE2C-D144-478D-B843-5D4F24355C8F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{00916EAB-41FE-45EE-AA2A-BCDAC55DB715}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00916EAB-41FE-45EE-AA2A-BCDAC55DB715}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00916EAB-41FE-45EE-AA2A-BCDAC55DB715}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00916EAB-41FE-45EE-AA2A-BCDAC55DB715}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

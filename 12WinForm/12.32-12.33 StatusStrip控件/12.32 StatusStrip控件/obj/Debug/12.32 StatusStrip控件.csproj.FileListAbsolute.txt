@@ -1,0 +1,19 @@
+D:\Users\Walker\Documents\Visual Studio 2015\Projects\51zxwProjects\12.32 StatusStrip控件\12.32 StatusStrip控件\bin\Debug\12.32 StatusStrip控件.exe.config
+D:\Users\Walker\Documents\Visual Studio 2015\Projects\51zxwProjects\12.32 StatusStrip控件\12.32 StatusStrip控件\bin\Debug\12.32 StatusStrip控件.exe
+D:\Users\Walker\Documents\Visual Studio 2015\Projects\51zxwProjects\12.32 StatusStrip控件\12.32 StatusStrip控件\bin\Debug\12.32 StatusStrip控件.pdb
+D:\Users\Walker\Documents\Visual Studio 2015\Projects\51zxwProjects\12.32 StatusStrip控件\12.32 StatusStrip控件\obj\Debug\12.32 StatusStrip控件.csprojResolveAssemblyReference.cache
+D:\Users\Walker\Documents\Visual Studio 2015\Projects\51zxwProjects\12.32 StatusStrip控件\12.32 StatusStrip控件\obj\Debug\_12._32_StatusStrip控件.Form1.resources
+D:\Users\Walker\Documents\Visual Studio 2015\Projects\51zxwProjects\12.32 StatusStrip控件\12.32 StatusStrip控件\obj\Debug\_12._32_StatusStrip控件.Properties.Resources.resources
+D:\Users\Walker\Documents\Visual Studio 2015\Projects\51zxwProjects\12.32 StatusStrip控件\12.32 StatusStrip控件\obj\Debug\12.32 StatusStrip控件.csproj.GenerateResource.Cache
+D:\Users\Walker\Documents\Visual Studio 2015\Projects\51zxwProjects\12.32 StatusStrip控件\12.32 StatusStrip控件\obj\Debug\12.32 StatusStrip控件.exe
+D:\Users\Walker\Documents\Visual Studio 2015\Projects\51zxwProjects\12.32 StatusStrip控件\12.32 StatusStrip控件\obj\Debug\12.32 StatusStrip控件.pdb
+C:\Users\singhwong\Desktop\C#素材\C#素材\12WinForm\12.32-12.33 StatusStrip控件\12.32 StatusStrip控件\bin\Debug\12.32 StatusStrip控件.exe.config
+C:\Users\singhwong\Desktop\C#素材\C#素材\12WinForm\12.32-12.33 StatusStrip控件\12.32 StatusStrip控件\bin\Debug\12.32 StatusStrip控件.exe
+C:\Users\singhwong\Desktop\C#素材\C#素材\12WinForm\12.32-12.33 StatusStrip控件\12.32 StatusStrip控件\bin\Debug\12.32 StatusStrip控件.pdb
+C:\Users\singhwong\Desktop\C#素材\C#素材\12WinForm\12.32-12.33 StatusStrip控件\12.32 StatusStrip控件\obj\Debug\12.32 StatusStrip控件.csprojAssemblyReference.cache
+C:\Users\singhwong\Desktop\C#素材\C#素材\12WinForm\12.32-12.33 StatusStrip控件\12.32 StatusStrip控件\obj\Debug\_12._32_StatusStrip控件.Form1.resources
+C:\Users\singhwong\Desktop\C#素材\C#素材\12WinForm\12.32-12.33 StatusStrip控件\12.32 StatusStrip控件\obj\Debug\_12._32_StatusStrip控件.Properties.Resources.resources
+C:\Users\singhwong\Desktop\C#素材\C#素材\12WinForm\12.32-12.33 StatusStrip控件\12.32 StatusStrip控件\obj\Debug\12.32 StatusStrip控件.csproj.GenerateResource.cache
+C:\Users\singhwong\Desktop\C#素材\C#素材\12WinForm\12.32-12.33 StatusStrip控件\12.32 StatusStrip控件\obj\Debug\12.32 StatusStrip控件.csproj.CoreCompileInputs.cache
+C:\Users\singhwong\Desktop\C#素材\C#素材\12WinForm\12.32-12.33 StatusStrip控件\12.32 StatusStrip控件\obj\Debug\12.32 StatusStrip控件.exe
+C:\Users\singhwong\Desktop\C#素材\C#素材\12WinForm\12.32-12.33 StatusStrip控件\12.32 StatusStrip控件\obj\Debug\12.32 StatusStrip控件.pdb

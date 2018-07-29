@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.4 本章总结及任务实施", "2.4 本章总结及任务实施\2.4 本章总结及任务实施.csproj", "{9C8806DE-779B-48CE-9E78-529E7E57EC99}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "一个解决方案下第二个项目", "一个解决方案下第二个项目\一个解决方案下第二个项目.csproj", "{CCA8B550-C881-4AA2-B149-0C48F747DD97}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9C8806DE-779B-48CE-9E78-529E7E57EC99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C8806DE-779B-48CE-9E78-529E7E57EC99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C8806DE-779B-48CE-9E78-529E7E57EC99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C8806DE-779B-48CE-9E78-529E7E57EC99}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CCA8B550-C881-4AA2-B149-0C48F747DD97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCA8B550-C881-4AA2-B149-0C48F747DD97}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCA8B550-C881-4AA2-B149-0C48F747DD97}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCA8B550-C881-4AA2-B149-0C48F747DD97}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

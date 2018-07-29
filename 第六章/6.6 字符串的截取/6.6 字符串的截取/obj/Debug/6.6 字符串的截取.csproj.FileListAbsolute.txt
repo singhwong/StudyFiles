@@ -1,0 +1,5 @@
+D:\Users\Walker\Documents\Visual Studio 2015\Projects\51zxwProjects\6.6 字符串的截取\6.6 字符串的截取\bin\Debug\6.6 字符串的截取.exe.config
+D:\Users\Walker\Documents\Visual Studio 2015\Projects\51zxwProjects\6.6 字符串的截取\6.6 字符串的截取\bin\Debug\6.6 字符串的截取.exe
+D:\Users\Walker\Documents\Visual Studio 2015\Projects\51zxwProjects\6.6 字符串的截取\6.6 字符串的截取\bin\Debug\6.6 字符串的截取.pdb
+D:\Users\Walker\Documents\Visual Studio 2015\Projects\51zxwProjects\6.6 字符串的截取\6.6 字符串的截取\obj\Debug\6.6 字符串的截取.exe
+D:\Users\Walker\Documents\Visual Studio 2015\Projects\51zxwProjects\6.6 字符串的截取\6.6 字符串的截取\obj\Debug\6.6 字符串的截取.pdb

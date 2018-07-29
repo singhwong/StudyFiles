@@ -1,0 +1,6 @@
+D:\Users\Walker\Documents\Visual Studio 2015\Projects\51zxwProjects\11.1 捕获异常\11.1 捕获异常\bin\Debug\11.1 捕获异常.exe.config
+D:\Users\Walker\Documents\Visual Studio 2015\Projects\51zxwProjects\11.1 捕获异常\11.1 捕获异常\bin\Debug\11.1 捕获异常.exe
+D:\Users\Walker\Documents\Visual Studio 2015\Projects\51zxwProjects\11.1 捕获异常\11.1 捕获异常\bin\Debug\11.1 捕获异常.pdb
+D:\Users\Walker\Documents\Visual Studio 2015\Projects\51zxwProjects\11.1 捕获异常\11.1 捕获异常\obj\Debug\11.1 捕获异常.csprojResolveAssemblyReference.cache
+D:\Users\Walker\Documents\Visual Studio 2015\Projects\51zxwProjects\11.1 捕获异常\11.1 捕获异常\obj\Debug\11.1 捕获异常.exe
+D:\Users\Walker\Documents\Visual Studio 2015\Projects\51zxwProjects\11.1 捕获异常\11.1 捕获异常\obj\Debug\11.1 捕获异常.pdb

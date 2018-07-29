@@ -1,0 +1,19 @@
+D:\Users\Walker\Documents\Visual Studio 2015\Projects\51zxwProjects\12.17 Timer控件(3)\12.17 Timer控件(3)\bin\Debug\12.17 Timer控件(3).exe.config
+D:\Users\Walker\Documents\Visual Studio 2015\Projects\51zxwProjects\12.17 Timer控件(3)\12.17 Timer控件(3)\bin\Debug\12.17 Timer控件(3).exe
+D:\Users\Walker\Documents\Visual Studio 2015\Projects\51zxwProjects\12.17 Timer控件(3)\12.17 Timer控件(3)\bin\Debug\12.17 Timer控件(3).pdb
+D:\Users\Walker\Documents\Visual Studio 2015\Projects\51zxwProjects\12.17 Timer控件(3)\12.17 Timer控件(3)\obj\Debug\12.17 Timer控件(3).csprojResolveAssemblyReference.cache
+D:\Users\Walker\Documents\Visual Studio 2015\Projects\51zxwProjects\12.17 Timer控件(3)\12.17 Timer控件(3)\obj\Debug\_12._17_Timer控件_3_.Form1.resources
+D:\Users\Walker\Documents\Visual Studio 2015\Projects\51zxwProjects\12.17 Timer控件(3)\12.17 Timer控件(3)\obj\Debug\_12._17_Timer控件_3_.Properties.Resources.resources
+D:\Users\Walker\Documents\Visual Studio 2015\Projects\51zxwProjects\12.17 Timer控件(3)\12.17 Timer控件(3)\obj\Debug\12.17 Timer控件(3).csproj.GenerateResource.Cache
+D:\Users\Walker\Documents\Visual Studio 2015\Projects\51zxwProjects\12.17 Timer控件(3)\12.17 Timer控件(3)\obj\Debug\12.17 Timer控件(3).exe
+D:\Users\Walker\Documents\Visual Studio 2015\Projects\51zxwProjects\12.17 Timer控件(3)\12.17 Timer控件(3)\obj\Debug\12.17 Timer控件(3).pdb
+C:\Users\singhwong\Desktop\C#素材\C#素材\12WinForm\12.17 Timer控件(3)\12.17 Timer控件(3)\bin\Debug\12.17 Timer控件(3).exe.config
+C:\Users\singhwong\Desktop\C#素材\C#素材\12WinForm\12.17 Timer控件(3)\12.17 Timer控件(3)\bin\Debug\12.17 Timer控件(3).exe
+C:\Users\singhwong\Desktop\C#素材\C#素材\12WinForm\12.17 Timer控件(3)\12.17 Timer控件(3)\bin\Debug\12.17 Timer控件(3).pdb
+C:\Users\singhwong\Desktop\C#素材\C#素材\12WinForm\12.17 Timer控件(3)\12.17 Timer控件(3)\obj\Debug\12.17 Timer控件(3).csprojAssemblyReference.cache
+C:\Users\singhwong\Desktop\C#素材\C#素材\12WinForm\12.17 Timer控件(3)\12.17 Timer控件(3)\obj\Debug\_12._17_Timer控件_3_.Form1.resources
+C:\Users\singhwong\Desktop\C#素材\C#素材\12WinForm\12.17 Timer控件(3)\12.17 Timer控件(3)\obj\Debug\_12._17_Timer控件_3_.Properties.Resources.resources
+C:\Users\singhwong\Desktop\C#素材\C#素材\12WinForm\12.17 Timer控件(3)\12.17 Timer控件(3)\obj\Debug\12.17 Timer控件(3).csproj.GenerateResource.cache
+C:\Users\singhwong\Desktop\C#素材\C#素材\12WinForm\12.17 Timer控件(3)\12.17 Timer控件(3)\obj\Debug\12.17 Timer控件(3).csproj.CoreCompileInputs.cache
+C:\Users\singhwong\Desktop\C#素材\C#素材\12WinForm\12.17 Timer控件(3)\12.17 Timer控件(3)\obj\Debug\12.17 Timer控件(3).exe
+C:\Users\singhwong\Desktop\C#素材\C#素材\12WinForm\12.17 Timer控件(3)\12.17 Timer控件(3)\obj\Debug\12.17 Timer控件(3).pdb

@@ -1,0 +1,9 @@
+D:\Users\Walker\Documents\Visual Studio 2015\Projects\51zxwProjects\12.23 NumericUpDown\12.23 NumericUpDown\bin\Debug\12.23 NumericUpDown.exe.config
+D:\Users\Walker\Documents\Visual Studio 2015\Projects\51zxwProjects\12.23 NumericUpDown\12.23 NumericUpDown\bin\Debug\12.23 NumericUpDown.exe
+D:\Users\Walker\Documents\Visual Studio 2015\Projects\51zxwProjects\12.23 NumericUpDown\12.23 NumericUpDown\bin\Debug\12.23 NumericUpDown.pdb
+D:\Users\Walker\Documents\Visual Studio 2015\Projects\51zxwProjects\12.23 NumericUpDown\12.23 NumericUpDown\obj\Debug\12.23 NumericUpDown.csprojResolveAssemblyReference.cache
+D:\Users\Walker\Documents\Visual Studio 2015\Projects\51zxwProjects\12.23 NumericUpDown\12.23 NumericUpDown\obj\Debug\_12._23_NumericUpDown.Form1.resources
+D:\Users\Walker\Documents\Visual Studio 2015\Projects\51zxwProjects\12.23 NumericUpDown\12.23 NumericUpDown\obj\Debug\_12._23_NumericUpDown.Properties.Resources.resources
+D:\Users\Walker\Documents\Visual Studio 2015\Projects\51zxwProjects\12.23 NumericUpDown\12.23 NumericUpDown\obj\Debug\12.23 NumericUpDown.csproj.GenerateResource.Cache
+D:\Users\Walker\Documents\Visual Studio 2015\Projects\51zxwProjects\12.23 NumericUpDown\12.23 NumericUpDown\obj\Debug\12.23 NumericUpDown.exe
+D:\Users\Walker\Documents\Visual Studio 2015\Projects\51zxwProjects\12.23 NumericUpDown\12.23 NumericUpDown\obj\Debug\12.23 NumericUpDown.pdb

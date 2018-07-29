@@ -1,0 +1,6 @@
+D:\Users\Walker\Documents\Visual Studio 2015\Projects\51zxwProjects\11.6 自定义异常类\11.6 自定义异常类\bin\Debug\11.6 自定义异常类.exe.config
+D:\Users\Walker\Documents\Visual Studio 2015\Projects\51zxwProjects\11.6 自定义异常类\11.6 自定义异常类\bin\Debug\11.6 自定义异常类.exe
+D:\Users\Walker\Documents\Visual Studio 2015\Projects\51zxwProjects\11.6 自定义异常类\11.6 自定义异常类\bin\Debug\11.6 自定义异常类.pdb
+D:\Users\Walker\Documents\Visual Studio 2015\Projects\51zxwProjects\11.6 自定义异常类\11.6 自定义异常类\obj\Debug\11.6 自定义异常类.csprojResolveAssemblyReference.cache
+D:\Users\Walker\Documents\Visual Studio 2015\Projects\51zxwProjects\11.6 自定义异常类\11.6 自定义异常类\obj\Debug\11.6 自定义异常类.exe
+D:\Users\Walker\Documents\Visual Studio 2015\Projects\51zxwProjects\11.6 自定义异常类\11.6 自定义异常类\obj\Debug\11.6 自定义异常类.pdb

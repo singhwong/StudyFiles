@@ -1,0 +1,6 @@
+D:\Users\Walker\Documents\Visual Studio 2015\Projects\51zxwProjects\3.1变量\3.1变量\3.1变量\bin\Debug\3.1变量.exe.config
+D:\Users\Walker\Documents\Visual Studio 2015\Projects\51zxwProjects\3.1变量\3.1变量\3.1变量\bin\Debug\3.1变量.exe
+D:\Users\Walker\Documents\Visual Studio 2015\Projects\51zxwProjects\3.1变量\3.1变量\3.1变量\bin\Debug\3.1变量.pdb
+D:\Users\Walker\Documents\Visual Studio 2015\Projects\51zxwProjects\3.1变量\3.1变量\3.1变量\obj\Debug\3.1变量.csprojResolveAssemblyReference.cache
+D:\Users\Walker\Documents\Visual Studio 2015\Projects\51zxwProjects\3.1变量\3.1变量\3.1变量\obj\Debug\3.1变量.exe
+D:\Users\Walker\Documents\Visual Studio 2015\Projects\51zxwProjects\3.1变量\3.1变量\3.1变量\obj\Debug\3.1变量.pdb

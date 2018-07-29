@@ -1,0 +1,6 @@
+D:\Users\Walker\Documents\Visual Studio 2015\Projects\51zxwProjects\9.2 枚举\9.2 枚举\bin\Debug\9.2 枚举.exe.config
+D:\Users\Walker\Documents\Visual Studio 2015\Projects\51zxwProjects\9.2 枚举\9.2 枚举\bin\Debug\9.2 枚举.exe
+D:\Users\Walker\Documents\Visual Studio 2015\Projects\51zxwProjects\9.2 枚举\9.2 枚举\bin\Debug\9.2 枚举.pdb
+D:\Users\Walker\Documents\Visual Studio 2015\Projects\51zxwProjects\9.2 枚举\9.2 枚举\obj\Debug\9.2 枚举.csprojResolveAssemblyReference.cache
+D:\Users\Walker\Documents\Visual Studio 2015\Projects\51zxwProjects\9.2 枚举\9.2 枚举\obj\Debug\9.2 枚举.exe
+D:\Users\Walker\Documents\Visual Studio 2015\Projects\51zxwProjects\9.2 枚举\9.2 枚举\obj\Debug\9.2 枚举.pdb

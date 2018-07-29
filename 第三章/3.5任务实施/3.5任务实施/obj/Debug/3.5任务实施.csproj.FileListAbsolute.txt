@@ -1,0 +1,5 @@
+d:\users\walker\documents\visual studio 2015\Projects\3.5任务实施\3.5任务实施\bin\Debug\3.5任务实施.exe.config
+d:\users\walker\documents\visual studio 2015\Projects\3.5任务实施\3.5任务实施\bin\Debug\3.5任务实施.exe
+d:\users\walker\documents\visual studio 2015\Projects\3.5任务实施\3.5任务实施\bin\Debug\3.5任务实施.pdb
+d:\users\walker\documents\visual studio 2015\Projects\3.5任务实施\3.5任务实施\obj\Debug\3.5任务实施.exe
+d:\users\walker\documents\visual studio 2015\Projects\3.5任务实施\3.5任务实施\obj\Debug\3.5任务实施.pdb

@@ -1,0 +1,6 @@
+D:\Users\Walker\Documents\Visual Studio 2015\Projects\51zxwProjects\1.5第一个控制台程序\1.5第一个控制台程序\bin\Debug\1.5第一个控制台程序.exe.config
+D:\Users\Walker\Documents\Visual Studio 2015\Projects\51zxwProjects\1.5第一个控制台程序\1.5第一个控制台程序\bin\Debug\1.5第一个控制台程序.exe
+D:\Users\Walker\Documents\Visual Studio 2015\Projects\51zxwProjects\1.5第一个控制台程序\1.5第一个控制台程序\bin\Debug\1.5第一个控制台程序.pdb
+D:\Users\Walker\Documents\Visual Studio 2015\Projects\51zxwProjects\1.5第一个控制台程序\1.5第一个控制台程序\obj\Debug\1.5第一个控制台程序.csprojResolveAssemblyReference.cache
+D:\Users\Walker\Documents\Visual Studio 2015\Projects\51zxwProjects\1.5第一个控制台程序\1.5第一个控制台程序\obj\Debug\1.5第一个控制台程序.exe
+D:\Users\Walker\Documents\Visual Studio 2015\Projects\51zxwProjects\1.5第一个控制台程序\1.5第一个控制台程序\obj\Debug\1.5第一个控制台程序.pdb

@@ -1,0 +1,8 @@
+D:\Users\Walker\Documents\Visual Studio 2015\Projects\51zxwProjects\15.7 DataGridView 直接修改数据\15.7 DataGridView 直接修改数据\bin\Debug\15.7 DataGridView 直接修改数据.exe.config
+D:\Users\Walker\Documents\Visual Studio 2015\Projects\51zxwProjects\15.7 DataGridView 直接修改数据\15.7 DataGridView 直接修改数据\bin\Debug\15.7 DataGridView 直接修改数据.exe
+D:\Users\Walker\Documents\Visual Studio 2015\Projects\51zxwProjects\15.7 DataGridView 直接修改数据\15.7 DataGridView 直接修改数据\bin\Debug\15.7 DataGridView 直接修改数据.pdb
+D:\Users\Walker\Documents\Visual Studio 2015\Projects\51zxwProjects\15.7 DataGridView 直接修改数据\15.7 DataGridView 直接修改数据\obj\Debug\_15._7_DataGridView_直接修改数据.Form1.resources
+D:\Users\Walker\Documents\Visual Studio 2015\Projects\51zxwProjects\15.7 DataGridView 直接修改数据\15.7 DataGridView 直接修改数据\obj\Debug\_15._7_DataGridView_直接修改数据.Properties.Resources.resources
+D:\Users\Walker\Documents\Visual Studio 2015\Projects\51zxwProjects\15.7 DataGridView 直接修改数据\15.7 DataGridView 直接修改数据\obj\Debug\15.7 DataGridView 直接修改数据.csproj.GenerateResource.Cache
+D:\Users\Walker\Documents\Visual Studio 2015\Projects\51zxwProjects\15.7 DataGridView 直接修改数据\15.7 DataGridView 直接修改数据\obj\Debug\15.7 DataGridView 直接修改数据.exe
+D:\Users\Walker\Documents\Visual Studio 2015\Projects\51zxwProjects\15.7 DataGridView 直接修改数据\15.7 DataGridView 直接修改数据\obj\Debug\15.7 DataGridView 直接修改数据.pdb

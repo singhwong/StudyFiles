@@ -1,0 +1,6 @@
+D:\Users\Walker\Documents\Visual Studio 2015\Projects\51zxwProjects\26.4 线程操作之线程休眠\26.4 线程操作之线程休眠\bin\Debug\26.4 线程操作之线程休眠.exe.config
+D:\Users\Walker\Documents\Visual Studio 2015\Projects\51zxwProjects\26.4 线程操作之线程休眠\26.4 线程操作之线程休眠\bin\Debug\26.4 线程操作之线程休眠.exe
+D:\Users\Walker\Documents\Visual Studio 2015\Projects\51zxwProjects\26.4 线程操作之线程休眠\26.4 线程操作之线程休眠\bin\Debug\26.4 线程操作之线程休眠.pdb
+D:\Users\Walker\Documents\Visual Studio 2015\Projects\51zxwProjects\26.4 线程操作之线程休眠\26.4 线程操作之线程休眠\obj\Debug\26.4 线程操作之线程休眠.csprojResolveAssemblyReference.cache
+D:\Users\Walker\Documents\Visual Studio 2015\Projects\51zxwProjects\26.4 线程操作之线程休眠\26.4 线程操作之线程休眠\obj\Debug\26.4 线程操作之线程休眠.exe
+D:\Users\Walker\Documents\Visual Studio 2015\Projects\51zxwProjects\26.4 线程操作之线程休眠\26.4 线程操作之线程休眠\obj\Debug\26.4 线程操作之线程休眠.pdb

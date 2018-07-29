@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13.7 TreeView控件", "13.7 TreeView控件\13.7 TreeView控件.csproj", "{49D972AD-AC88-4F70-8B31-A9988A3B9675}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{49D972AD-AC88-4F70-8B31-A9988A3B9675}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49D972AD-AC88-4F70-8B31-A9988A3B9675}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49D972AD-AC88-4F70-8B31-A9988A3B9675}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49D972AD-AC88-4F70-8B31-A9988A3B9675}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

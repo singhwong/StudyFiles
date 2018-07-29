@@ -1,0 +1,19 @@
+D:\Users\Walker\Documents\Visual Studio 2015\Projects\51zxwProjects\12.29 MenuStrip与ContextMenuStrip\12.29 MenuStrip与ContextMenuStrip\bin\Debug\12.29 MenuStrip与ContextMenuStrip.exe.config
+D:\Users\Walker\Documents\Visual Studio 2015\Projects\51zxwProjects\12.29 MenuStrip与ContextMenuStrip\12.29 MenuStrip与ContextMenuStrip\bin\Debug\12.29 MenuStrip与ContextMenuStrip.exe
+D:\Users\Walker\Documents\Visual Studio 2015\Projects\51zxwProjects\12.29 MenuStrip与ContextMenuStrip\12.29 MenuStrip与ContextMenuStrip\bin\Debug\12.29 MenuStrip与ContextMenuStrip.pdb
+D:\Users\Walker\Documents\Visual Studio 2015\Projects\51zxwProjects\12.29 MenuStrip与ContextMenuStrip\12.29 MenuStrip与ContextMenuStrip\obj\Debug\12.29 MenuStrip与ContextMenuStrip.csprojResolveAssemblyReference.cache
+D:\Users\Walker\Documents\Visual Studio 2015\Projects\51zxwProjects\12.29 MenuStrip与ContextMenuStrip\12.29 MenuStrip与ContextMenuStrip\obj\Debug\_12._29_MenuStrip与ContextMenuStrip.Form1.resources
+D:\Users\Walker\Documents\Visual Studio 2015\Projects\51zxwProjects\12.29 MenuStrip与ContextMenuStrip\12.29 MenuStrip与ContextMenuStrip\obj\Debug\_12._29_MenuStrip与ContextMenuStrip.Properties.Resources.resources
+D:\Users\Walker\Documents\Visual Studio 2015\Projects\51zxwProjects\12.29 MenuStrip与ContextMenuStrip\12.29 MenuStrip与ContextMenuStrip\obj\Debug\12.29 MenuStrip与ContextMenuStrip.csproj.GenerateResource.Cache
+D:\Users\Walker\Documents\Visual Studio 2015\Projects\51zxwProjects\12.29 MenuStrip与ContextMenuStrip\12.29 MenuStrip与ContextMenuStrip\obj\Debug\12.29 MenuStrip与ContextMenuStrip.exe
+D:\Users\Walker\Documents\Visual Studio 2015\Projects\51zxwProjects\12.29 MenuStrip与ContextMenuStrip\12.29 MenuStrip与ContextMenuStrip\obj\Debug\12.29 MenuStrip与ContextMenuStrip.pdb
+C:\Users\singhwong\Desktop\C#素材\C#素材\12WinForm\12.29-12.30 MenuStrip与ContextMenuStrip\12.29 MenuStrip与ContextMenuStrip\bin\Debug\12.29 MenuStrip与ContextMenuStrip.exe.config
+C:\Users\singhwong\Desktop\C#素材\C#素材\12WinForm\12.29-12.30 MenuStrip与ContextMenuStrip\12.29 MenuStrip与ContextMenuStrip\bin\Debug\12.29 MenuStrip与ContextMenuStrip.exe
+C:\Users\singhwong\Desktop\C#素材\C#素材\12WinForm\12.29-12.30 MenuStrip与ContextMenuStrip\12.29 MenuStrip与ContextMenuStrip\bin\Debug\12.29 MenuStrip与ContextMenuStrip.pdb
+C:\Users\singhwong\Desktop\C#素材\C#素材\12WinForm\12.29-12.30 MenuStrip与ContextMenuStrip\12.29 MenuStrip与ContextMenuStrip\obj\Debug\12.29 MenuStrip与ContextMenuStrip.csprojAssemblyReference.cache
+C:\Users\singhwong\Desktop\C#素材\C#素材\12WinForm\12.29-12.30 MenuStrip与ContextMenuStrip\12.29 MenuStrip与ContextMenuStrip\obj\Debug\_12._29_MenuStrip与ContextMenuStrip.Form1.resources
+C:\Users\singhwong\Desktop\C#素材\C#素材\12WinForm\12.29-12.30 MenuStrip与ContextMenuStrip\12.29 MenuStrip与ContextMenuStrip\obj\Debug\_12._29_MenuStrip与ContextMenuStrip.Properties.Resources.resources
+C:\Users\singhwong\Desktop\C#素材\C#素材\12WinForm\12.29-12.30 MenuStrip与ContextMenuStrip\12.29 MenuStrip与ContextMenuStrip\obj\Debug\12.29 MenuStrip与ContextMenuStrip.csproj.GenerateResource.cache
+C:\Users\singhwong\Desktop\C#素材\C#素材\12WinForm\12.29-12.30 MenuStrip与ContextMenuStrip\12.29 MenuStrip与ContextMenuStrip\obj\Debug\12.29 MenuStrip与ContextMenuStrip.csproj.CoreCompileInputs.cache
+C:\Users\singhwong\Desktop\C#素材\C#素材\12WinForm\12.29-12.30 MenuStrip与ContextMenuStrip\12.29 MenuStrip与ContextMenuStrip\obj\Debug\12.29 MenuStrip与ContextMenuStrip.exe
+C:\Users\singhwong\Desktop\C#素材\C#素材\12WinForm\12.29-12.30 MenuStrip与ContextMenuStrip\12.29 MenuStrip与ContextMenuStrip\obj\Debug\12.29 MenuStrip与ContextMenuStrip.pdb

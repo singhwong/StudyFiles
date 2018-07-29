@@ -1,0 +1,6 @@
+D:\Users\Walker\Documents\Visual Studio 2015\Projects\51zxwProjects\11.5 预定义异常类(2)\11.5 预定义异常类(2)\bin\Debug\11.5 预定义异常类(2).exe.config
+D:\Users\Walker\Documents\Visual Studio 2015\Projects\51zxwProjects\11.5 预定义异常类(2)\11.5 预定义异常类(2)\bin\Debug\11.5 预定义异常类(2).exe
+D:\Users\Walker\Documents\Visual Studio 2015\Projects\51zxwProjects\11.5 预定义异常类(2)\11.5 预定义异常类(2)\bin\Debug\11.5 预定义异常类(2).pdb
+D:\Users\Walker\Documents\Visual Studio 2015\Projects\51zxwProjects\11.5 预定义异常类(2)\11.5 预定义异常类(2)\obj\Debug\11.5 预定义异常类(2).csprojResolveAssemblyReference.cache
+D:\Users\Walker\Documents\Visual Studio 2015\Projects\51zxwProjects\11.5 预定义异常类(2)\11.5 预定义异常类(2)\obj\Debug\11.5 预定义异常类(2).exe
+D:\Users\Walker\Documents\Visual Studio 2015\Projects\51zxwProjects\11.5 预定义异常类(2)\11.5 预定义异常类(2)\obj\Debug\11.5 预定义异常类(2).pdb

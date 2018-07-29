@@ -1,0 +1,5 @@
+D:\Users\Walker\Documents\Visual Studio 2015\Projects\51zxwProjects\5.8 迭代语句之foreach语句\5.8 迭代语句之foreach语句\bin\Debug\5.7 迭代语句之foreach语句.exe.config
+D:\Users\Walker\Documents\Visual Studio 2015\Projects\51zxwProjects\5.8 迭代语句之foreach语句\5.8 迭代语句之foreach语句\obj\Debug\5.7 迭代语句之foreach语句.exe
+D:\Users\Walker\Documents\Visual Studio 2015\Projects\51zxwProjects\5.8 迭代语句之foreach语句\5.8 迭代语句之foreach语句\obj\Debug\5.7 迭代语句之foreach语句.pdb
+D:\Users\Walker\Documents\Visual Studio 2015\Projects\51zxwProjects\5.8 迭代语句之foreach语句\5.8 迭代语句之foreach语句\bin\Debug\5.7 迭代语句之foreach语句.exe
+D:\Users\Walker\Documents\Visual Studio 2015\Projects\51zxwProjects\5.8 迭代语句之foreach语句\5.8 迭代语句之foreach语句\bin\Debug\5.7 迭代语句之foreach语句.pdb

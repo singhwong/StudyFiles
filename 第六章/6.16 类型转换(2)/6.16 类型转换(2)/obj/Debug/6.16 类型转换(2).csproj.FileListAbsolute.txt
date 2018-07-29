@@ -1,0 +1,6 @@
+D:\Users\Walker\Documents\Visual Studio 2015\Projects\51zxwProjects\6.16 类型转换(2)\6.16 类型转换(2)\bin\Debug\6.16 类型转换(2).exe.config
+D:\Users\Walker\Documents\Visual Studio 2015\Projects\51zxwProjects\6.16 类型转换(2)\6.16 类型转换(2)\bin\Debug\6.16 类型转换(2).exe
+D:\Users\Walker\Documents\Visual Studio 2015\Projects\51zxwProjects\6.16 类型转换(2)\6.16 类型转换(2)\bin\Debug\6.16 类型转换(2).pdb
+D:\Users\Walker\Documents\Visual Studio 2015\Projects\51zxwProjects\6.16 类型转换(2)\6.16 类型转换(2)\obj\Debug\6.16 类型转换(2).exe
+D:\Users\Walker\Documents\Visual Studio 2015\Projects\51zxwProjects\6.16 类型转换(2)\6.16 类型转换(2)\obj\Debug\6.16 类型转换(2).pdb
+D:\Users\Walker\Documents\Visual Studio 2015\Projects\51zxwProjects\6.16 类型转换(2)\6.16 类型转换(2)\obj\Debug\6.16 类型转换(2).csprojResolveAssemblyReference.cache

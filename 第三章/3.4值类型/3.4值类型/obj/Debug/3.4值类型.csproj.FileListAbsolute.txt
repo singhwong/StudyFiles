@@ -1,0 +1,6 @@
+d:\users\walker\documents\visual studio 2015\Projects\3.4值类型\3.4值类型\bin\Debug\3.4值类型.exe.config
+d:\users\walker\documents\visual studio 2015\Projects\3.4值类型\3.4值类型\obj\Debug\3.4值类型.csprojResolveAssemblyReference.cache
+d:\users\walker\documents\visual studio 2015\Projects\3.4值类型\3.4值类型\bin\Debug\3.4值类型.exe
+d:\users\walker\documents\visual studio 2015\Projects\3.4值类型\3.4值类型\bin\Debug\3.4值类型.pdb
+d:\users\walker\documents\visual studio 2015\Projects\3.4值类型\3.4值类型\obj\Debug\3.4值类型.exe
+d:\users\walker\documents\visual studio 2015\Projects\3.4值类型\3.4值类型\obj\Debug\3.4值类型.pdb

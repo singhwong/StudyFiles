@@ -1,0 +1,19 @@
+D:\Users\Walker\Documents\Visual Studio 2015\Projects\51zxwProjects\13.2 PictureBox控件（2）\13.2 PictureBox控件（2）\bin\Debug\13.2 PictureBox控件（2）.exe.config
+D:\Users\Walker\Documents\Visual Studio 2015\Projects\51zxwProjects\13.2 PictureBox控件（2）\13.2 PictureBox控件（2）\bin\Debug\13.2 PictureBox控件（2）.exe
+D:\Users\Walker\Documents\Visual Studio 2015\Projects\51zxwProjects\13.2 PictureBox控件（2）\13.2 PictureBox控件（2）\bin\Debug\13.2 PictureBox控件（2）.pdb
+D:\Users\Walker\Documents\Visual Studio 2015\Projects\51zxwProjects\13.2 PictureBox控件（2）\13.2 PictureBox控件（2）\obj\Debug\13.2 PictureBox控件（2）.csprojResolveAssemblyReference.cache
+D:\Users\Walker\Documents\Visual Studio 2015\Projects\51zxwProjects\13.2 PictureBox控件（2）\13.2 PictureBox控件（2）\obj\Debug\_13._2_PictureBox控件_2_.Form1.resources
+D:\Users\Walker\Documents\Visual Studio 2015\Projects\51zxwProjects\13.2 PictureBox控件（2）\13.2 PictureBox控件（2）\obj\Debug\_13._2_PictureBox控件_2_.Properties.Resources.resources
+D:\Users\Walker\Documents\Visual Studio 2015\Projects\51zxwProjects\13.2 PictureBox控件（2）\13.2 PictureBox控件（2）\obj\Debug\13.2 PictureBox控件（2）.csproj.GenerateResource.Cache
+D:\Users\Walker\Documents\Visual Studio 2015\Projects\51zxwProjects\13.2 PictureBox控件（2）\13.2 PictureBox控件（2）\obj\Debug\13.2 PictureBox控件（2）.exe
+D:\Users\Walker\Documents\Visual Studio 2015\Projects\51zxwProjects\13.2 PictureBox控件（2）\13.2 PictureBox控件（2）\obj\Debug\13.2 PictureBox控件（2）.pdb
+C:\Users\singhwong\Desktop\C#素材\C#素材\13第十三章\13.2 PictureBox控件（2）\13.2 PictureBox控件（2）\bin\Debug\13.2 PictureBox控件（2）.exe.config
+C:\Users\singhwong\Desktop\C#素材\C#素材\13第十三章\13.2 PictureBox控件（2）\13.2 PictureBox控件（2）\bin\Debug\13.2 PictureBox控件（2）.exe
+C:\Users\singhwong\Desktop\C#素材\C#素材\13第十三章\13.2 PictureBox控件（2）\13.2 PictureBox控件（2）\bin\Debug\13.2 PictureBox控件（2）.pdb
+C:\Users\singhwong\Desktop\C#素材\C#素材\13第十三章\13.2 PictureBox控件（2）\13.2 PictureBox控件（2）\obj\Debug\13.2 PictureBox控件（2）.csprojAssemblyReference.cache
+C:\Users\singhwong\Desktop\C#素材\C#素材\13第十三章\13.2 PictureBox控件（2）\13.2 PictureBox控件（2）\obj\Debug\_13._2_PictureBox控件_2_.Form1.resources
+C:\Users\singhwong\Desktop\C#素材\C#素材\13第十三章\13.2 PictureBox控件（2）\13.2 PictureBox控件（2）\obj\Debug\_13._2_PictureBox控件_2_.Properties.Resources.resources
+C:\Users\singhwong\Desktop\C#素材\C#素材\13第十三章\13.2 PictureBox控件（2）\13.2 PictureBox控件（2）\obj\Debug\13.2 PictureBox控件（2）.csproj.GenerateResource.cache
+C:\Users\singhwong\Desktop\C#素材\C#素材\13第十三章\13.2 PictureBox控件（2）\13.2 PictureBox控件（2）\obj\Debug\13.2 PictureBox控件（2）.csproj.CoreCompileInputs.cache
+C:\Users\singhwong\Desktop\C#素材\C#素材\13第十三章\13.2 PictureBox控件（2）\13.2 PictureBox控件（2）\obj\Debug\13.2 PictureBox控件（2）.exe
+C:\Users\singhwong\Desktop\C#素材\C#素材\13第十三章\13.2 PictureBox控件（2）\13.2 PictureBox控件（2）\obj\Debug\13.2 PictureBox控件（2）.pdb

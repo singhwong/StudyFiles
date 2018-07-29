@@ -1,0 +1,6 @@
+D:\Users\Walker\Documents\Visual Studio 2015\Projects\51zxwProjects\6.5 字符串的格式化\6.5 字符串的格式化\bin\Debug\6.5 字符串的格式化.exe.config
+D:\Users\Walker\Documents\Visual Studio 2015\Projects\51zxwProjects\6.5 字符串的格式化\6.5 字符串的格式化\bin\Debug\6.5 字符串的格式化.exe
+D:\Users\Walker\Documents\Visual Studio 2015\Projects\51zxwProjects\6.5 字符串的格式化\6.5 字符串的格式化\bin\Debug\6.5 字符串的格式化.pdb
+D:\Users\Walker\Documents\Visual Studio 2015\Projects\51zxwProjects\6.5 字符串的格式化\6.5 字符串的格式化\obj\Debug\6.5 字符串的格式化.csprojResolveAssemblyReference.cache
+D:\Users\Walker\Documents\Visual Studio 2015\Projects\51zxwProjects\6.5 字符串的格式化\6.5 字符串的格式化\obj\Debug\6.5 字符串的格式化.exe
+D:\Users\Walker\Documents\Visual Studio 2015\Projects\51zxwProjects\6.5 字符串的格式化\6.5 字符串的格式化\obj\Debug\6.5 字符串的格式化.pdb

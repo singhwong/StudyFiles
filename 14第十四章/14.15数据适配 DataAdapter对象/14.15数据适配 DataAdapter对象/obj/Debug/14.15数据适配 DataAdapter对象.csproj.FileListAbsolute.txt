@@ -1,0 +1,13 @@
+D:\Users\Walker\Documents\Visual Studio 2015\Projects\51zxwProjects\14.15数据适配 DataAdapter对象\14.15数据适配 DataAdapter对象\bin\Debug\14.15数据适配 DataAdapter对象.exe.config
+D:\Users\Walker\Documents\Visual Studio 2015\Projects\51zxwProjects\14.15数据适配 DataAdapter对象\14.15数据适配 DataAdapter对象\bin\Debug\14.15数据适配 DataAdapter对象.exe
+D:\Users\Walker\Documents\Visual Studio 2015\Projects\51zxwProjects\14.15数据适配 DataAdapter对象\14.15数据适配 DataAdapter对象\bin\Debug\14.15数据适配 DataAdapter对象.pdb
+D:\Users\Walker\Documents\Visual Studio 2015\Projects\51zxwProjects\14.15数据适配 DataAdapter对象\14.15数据适配 DataAdapter对象\obj\Debug\14.15数据适配 DataAdapter对象.csprojResolveAssemblyReference.cache
+D:\Users\Walker\Documents\Visual Studio 2015\Projects\51zxwProjects\14.15数据适配 DataAdapter对象\14.15数据适配 DataAdapter对象\obj\Debug\14.15数据适配 DataAdapter对象.exe
+D:\Users\Walker\Documents\Visual Studio 2015\Projects\51zxwProjects\14.15数据适配 DataAdapter对象\14.15数据适配 DataAdapter对象\obj\Debug\14.15数据适配 DataAdapter对象.pdb
+C:\Users\singhwong\Desktop\C#素材\C#素材\14第十四章\14.15数据适配 DataAdapter对象\14.15数据适配 DataAdapter对象\bin\Debug\14.15数据适配 DataAdapter对象.exe.config
+C:\Users\singhwong\Desktop\C#素材\C#素材\14第十四章\14.15数据适配 DataAdapter对象\14.15数据适配 DataAdapter对象\bin\Debug\14.15数据适配 DataAdapter对象.exe
+C:\Users\singhwong\Desktop\C#素材\C#素材\14第十四章\14.15数据适配 DataAdapter对象\14.15数据适配 DataAdapter对象\bin\Debug\14.15数据适配 DataAdapter对象.pdb
+C:\Users\singhwong\Desktop\C#素材\C#素材\14第十四章\14.15数据适配 DataAdapter对象\14.15数据适配 DataAdapter对象\obj\Debug\14.15数据适配 DataAdapter对象.csprojAssemblyReference.cache
+C:\Users\singhwong\Desktop\C#素材\C#素材\14第十四章\14.15数据适配 DataAdapter对象\14.15数据适配 DataAdapter对象\obj\Debug\14.15数据适配 DataAdapter对象.csproj.CoreCompileInputs.cache
+C:\Users\singhwong\Desktop\C#素材\C#素材\14第十四章\14.15数据适配 DataAdapter对象\14.15数据适配 DataAdapter对象\obj\Debug\14.15数据适配 DataAdapter对象.exe
+C:\Users\singhwong\Desktop\C#素材\C#素材\14第十四章\14.15数据适配 DataAdapter对象\14.15数据适配 DataAdapter对象\obj\Debug\14.15数据适配 DataAdapter对象.pdb

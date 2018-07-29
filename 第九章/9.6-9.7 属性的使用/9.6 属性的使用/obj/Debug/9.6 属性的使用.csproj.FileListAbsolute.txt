@@ -1,0 +1,6 @@
+D:\Users\Walker\Documents\Visual Studio 2015\Projects\51zxwProjects\9.6 属性的使用\9.6 属性的使用\bin\Debug\9.6 属性的使用.exe.config
+D:\Users\Walker\Documents\Visual Studio 2015\Projects\51zxwProjects\9.6 属性的使用\9.6 属性的使用\bin\Debug\9.6 属性的使用.exe
+D:\Users\Walker\Documents\Visual Studio 2015\Projects\51zxwProjects\9.6 属性的使用\9.6 属性的使用\bin\Debug\9.6 属性的使用.pdb
+D:\Users\Walker\Documents\Visual Studio 2015\Projects\51zxwProjects\9.6 属性的使用\9.6 属性的使用\obj\Debug\9.6 属性的使用.csprojResolveAssemblyReference.cache
+D:\Users\Walker\Documents\Visual Studio 2015\Projects\51zxwProjects\9.6 属性的使用\9.6 属性的使用\obj\Debug\9.6 属性的使用.exe
+D:\Users\Walker\Documents\Visual Studio 2015\Projects\51zxwProjects\9.6 属性的使用\9.6 属性的使用\obj\Debug\9.6 属性的使用.pdb

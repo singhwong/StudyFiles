@@ -1,0 +1,8 @@
+D:\Users\Walker\Documents\Visual Studio 2015\Projects\51zxwProjects\22.6 绘制基本图形之椭圆、弧、扇形\22.6 绘制基本图形之椭圆、弧、扇形\bin\Debug\22.6 绘制基本图形之椭圆、弧、扇形.exe.config
+D:\Users\Walker\Documents\Visual Studio 2015\Projects\51zxwProjects\22.6 绘制基本图形之椭圆、弧、扇形\22.6 绘制基本图形之椭圆、弧、扇形\bin\Debug\22.6 绘制基本图形之椭圆、弧、扇形.exe
+D:\Users\Walker\Documents\Visual Studio 2015\Projects\51zxwProjects\22.6 绘制基本图形之椭圆、弧、扇形\22.6 绘制基本图形之椭圆、弧、扇形\bin\Debug\22.6 绘制基本图形之椭圆、弧、扇形.pdb
+D:\Users\Walker\Documents\Visual Studio 2015\Projects\51zxwProjects\22.6 绘制基本图形之椭圆、弧、扇形\22.6 绘制基本图形之椭圆、弧、扇形\obj\Debug\_22._6_绘制基本图形之椭圆_弧_扇形.Form1.resources
+D:\Users\Walker\Documents\Visual Studio 2015\Projects\51zxwProjects\22.6 绘制基本图形之椭圆、弧、扇形\22.6 绘制基本图形之椭圆、弧、扇形\obj\Debug\_22._6_绘制基本图形之椭圆_弧_扇形.Properties.Resources.resources
+D:\Users\Walker\Documents\Visual Studio 2015\Projects\51zxwProjects\22.6 绘制基本图形之椭圆、弧、扇形\22.6 绘制基本图形之椭圆、弧、扇形\obj\Debug\22.6 绘制基本图形之椭圆、弧、扇形.csproj.GenerateResource.Cache
+D:\Users\Walker\Documents\Visual Studio 2015\Projects\51zxwProjects\22.6 绘制基本图形之椭圆、弧、扇形\22.6 绘制基本图形之椭圆、弧、扇形\obj\Debug\22.6 绘制基本图形之椭圆、弧、扇形.exe
+D:\Users\Walker\Documents\Visual Studio 2015\Projects\51zxwProjects\22.6 绘制基本图形之椭圆、弧、扇形\22.6 绘制基本图形之椭圆、弧、扇形\obj\Debug\22.6 绘制基本图形之椭圆、弧、扇形.pdb

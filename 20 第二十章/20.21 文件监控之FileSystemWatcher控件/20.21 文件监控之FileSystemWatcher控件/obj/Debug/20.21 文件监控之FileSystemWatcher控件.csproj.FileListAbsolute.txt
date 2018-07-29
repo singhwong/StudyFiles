@@ -1,0 +1,8 @@
+D:\Users\Walker\Documents\Visual Studio 2015\Projects\51zxwProjects\20.21 文件监控之FileSystemWatcher控件\20.21 文件监控之FileSystemWatcher控件\bin\Debug\20.21 文件监控之FileSystemWatcher控件.exe.config
+D:\Users\Walker\Documents\Visual Studio 2015\Projects\51zxwProjects\20.21 文件监控之FileSystemWatcher控件\20.21 文件监控之FileSystemWatcher控件\bin\Debug\20.21 文件监控之FileSystemWatcher控件.exe
+D:\Users\Walker\Documents\Visual Studio 2015\Projects\51zxwProjects\20.21 文件监控之FileSystemWatcher控件\20.21 文件监控之FileSystemWatcher控件\bin\Debug\20.21 文件监控之FileSystemWatcher控件.pdb
+D:\Users\Walker\Documents\Visual Studio 2015\Projects\51zxwProjects\20.21 文件监控之FileSystemWatcher控件\20.21 文件监控之FileSystemWatcher控件\obj\Debug\_20._21_文件监控之FileSystemWatcher控件.Form1.resources
+D:\Users\Walker\Documents\Visual Studio 2015\Projects\51zxwProjects\20.21 文件监控之FileSystemWatcher控件\20.21 文件监控之FileSystemWatcher控件\obj\Debug\_20._21_文件监控之FileSystemWatcher控件.Properties.Resources.resources
+D:\Users\Walker\Documents\Visual Studio 2015\Projects\51zxwProjects\20.21 文件监控之FileSystemWatcher控件\20.21 文件监控之FileSystemWatcher控件\obj\Debug\20.21 文件监控之FileSystemWatcher控件.csproj.GenerateResource.Cache
+D:\Users\Walker\Documents\Visual Studio 2015\Projects\51zxwProjects\20.21 文件监控之FileSystemWatcher控件\20.21 文件监控之FileSystemWatcher控件\obj\Debug\20.21 文件监控之FileSystemWatcher控件.exe
+D:\Users\Walker\Documents\Visual Studio 2015\Projects\51zxwProjects\20.21 文件监控之FileSystemWatcher控件\20.21 文件监控之FileSystemWatcher控件\obj\Debug\20.21 文件监控之FileSystemWatcher控件.pdb

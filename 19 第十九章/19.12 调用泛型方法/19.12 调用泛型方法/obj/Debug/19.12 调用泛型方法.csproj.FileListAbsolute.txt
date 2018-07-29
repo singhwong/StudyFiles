@@ -1,0 +1,5 @@
+D:\Users\Walker\Documents\Visual Studio 2015\Projects\51zxwProjects\19.12 调用泛型方法\19.12 调用泛型方法\bin\Debug\19.12 调用泛型方法.exe.config
+D:\Users\Walker\Documents\Visual Studio 2015\Projects\51zxwProjects\19.12 调用泛型方法\19.12 调用泛型方法\bin\Debug\19.12 调用泛型方法.exe
+D:\Users\Walker\Documents\Visual Studio 2015\Projects\51zxwProjects\19.12 调用泛型方法\19.12 调用泛型方法\bin\Debug\19.12 调用泛型方法.pdb
+D:\Users\Walker\Documents\Visual Studio 2015\Projects\51zxwProjects\19.12 调用泛型方法\19.12 调用泛型方法\obj\Debug\19.12 调用泛型方法.exe
+D:\Users\Walker\Documents\Visual Studio 2015\Projects\51zxwProjects\19.12 调用泛型方法\19.12 调用泛型方法\obj\Debug\19.12 调用泛型方法.pdb

@@ -1,0 +1,9 @@
+D:\Users\Walker\Documents\Visual Studio 2015\Projects\51zxwProjects\12.5 窗体的常用事件\12.5 窗体的常用事件\bin\Debug\12.5 窗体的常用事件.exe.config
+D:\Users\Walker\Documents\Visual Studio 2015\Projects\51zxwProjects\12.5 窗体的常用事件\12.5 窗体的常用事件\bin\Debug\12.5 窗体的常用事件.exe
+D:\Users\Walker\Documents\Visual Studio 2015\Projects\51zxwProjects\12.5 窗体的常用事件\12.5 窗体的常用事件\bin\Debug\12.5 窗体的常用事件.pdb
+D:\Users\Walker\Documents\Visual Studio 2015\Projects\51zxwProjects\12.5 窗体的常用事件\12.5 窗体的常用事件\obj\Debug\12.5 窗体的常用事件.csprojResolveAssemblyReference.cache
+D:\Users\Walker\Documents\Visual Studio 2015\Projects\51zxwProjects\12.5 窗体的常用事件\12.5 窗体的常用事件\obj\Debug\_12._5_窗体的常用事件.Form1.resources
+D:\Users\Walker\Documents\Visual Studio 2015\Projects\51zxwProjects\12.5 窗体的常用事件\12.5 窗体的常用事件\obj\Debug\_12._5_窗体的常用事件.Properties.Resources.resources
+D:\Users\Walker\Documents\Visual Studio 2015\Projects\51zxwProjects\12.5 窗体的常用事件\12.5 窗体的常用事件\obj\Debug\12.5 窗体的常用事件.csproj.GenerateResource.Cache
+D:\Users\Walker\Documents\Visual Studio 2015\Projects\51zxwProjects\12.5 窗体的常用事件\12.5 窗体的常用事件\obj\Debug\12.5 窗体的常用事件.exe
+D:\Users\Walker\Documents\Visual Studio 2015\Projects\51zxwProjects\12.5 窗体的常用事件\12.5 窗体的常用事件\obj\Debug\12.5 窗体的常用事件.pdb
